@@ -19,7 +19,7 @@ Pictures generated every 20 epochs in our run are available in the "generated_pi
 * MNIST_Adam_epoch_200_run_3.png
 * MNIST_Lookahead Adam_epoch_200_run_1.png
 
-Running the jupyter notebook reproduces our results and saves randomly generated pictures by models, every 20 epochs, at the same level as the notebook. To run it, simply run all the cells in order. The plot used in the report as well as additional ones are displayed in the notebook.
+Running the jupyter notebook reproduces our results and saves randomly generated pictures by models, every 20 epochs, at the same level as the notebook. To run it, simply run all the cells in order. This can take around one entire day with a GPU (~1h40 for every model, 12 models are trained). The plot used in the report as well as additional ones are displayed in the notebook.
 
 ## Content
 
