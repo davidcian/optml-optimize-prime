@@ -12,12 +12,12 @@ We also make use of the implementation of Fréchet Inception Distance for PyTorc
 ## Results and reproduction
 
 Pictures generated every 20 epochs in our run are available in the "generated_pictures" folder, including the one used in our report (in order of appearance):
--MNIST_SGD_epoch_200_run_3.png
--MNIST_Lookahead SGD_epoch_200_run_3.png
--MNIST_batch1.png
--MNIST_Adam_epoch_200_run_2.png
--MNIST_Adam_epoch_200_run_3.png
--MNIST_Lookahead Adam_epoch_200_run_1.png
+*MNIST_SGD_epoch_200_run_3.png
+*MNIST_Lookahead SGD_epoch_200_run_3.png
+*MNIST_batch1.png
+*MNIST_Adam_epoch_200_run_2.png
+*MNIST_Adam_epoch_200_run_3.png
+*MNIST_Lookahead Adam_epoch_200_run_1.png
 
 Running the jupyter notebook reproduces our results and saves randomly generated pictures by models, every 20 epochs, at the same level as the notebook. To run it, simply run all the cells in order. The plot used in the report as well as additional ones are displayed in the notebook.
 
